@@ -1,0 +1,2 @@
+# SimpleChattyBot
+JetBrains Academy - Python
